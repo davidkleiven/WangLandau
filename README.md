@@ -1,6 +1,9 @@
 ![Build status](https://travis-ci.org/davidkleiven/CEMC.svg?branch=master)
 [![MIT License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](LICENSE)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 # Cluster Expansion Monte Carlo
+
+Please consult the [official CLEASE repository](https://gitlab.com/computationalmaterials/clease) instead.
 
 [Documentation page](http://folk.ntnu.no/davidkl/CEMC/index.html)
 
